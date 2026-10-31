@@ -1,0 +1,4 @@
+client_id,P(caída > límite) recomendado %,P(caída > límite) igual peso %,caída mediana %,caída p95 %,P(pérdida en el año) %
+CL_01,1.6,22.6,-10.6,-18.6,16.2
+CL_02,31.8,67.0,-8.5,-15.1,21.0
+CL_03,17.0,65.8,-11.0,-18.4,20.4

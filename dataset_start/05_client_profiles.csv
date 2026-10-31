@@ -1,0 +1,4 @@
+﻿client_id,profile_name,base_currency,horizon_months,risk_tolerance,max_drawdown_tolerance_pct,liquidity_need,priority,constraint
+CL_01,Crecimiento Global,USD,18,Alta,22,Baja,Crecimiento de capital,Máx. 45% en un solo sector
+CL_02,Patrimonio Estable,COP,36,Media-Baja,10,Media,Preservación + crecimiento moderado,Máx. 25% en activos de alta volatilidad
+CL_03,Diversificación Regional,PEN,24,Media,15,Media,Diversificación geográfica,Al menos 3 países y 3 sectores

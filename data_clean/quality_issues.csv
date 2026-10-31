@@ -1,0 +1,21 @@
+tabla,problema,filas,corrección
+01_market_prices_raw,asset_id mal escrito,3,Mapear al ID oficial
+01_market_prices_raw,Fecha en formato MM/DD/YYYY,4,Parsear con formato mixto
+01_market_prices_raw,Filas duplicadas,7,Eliminar duplicados
+01_market_prices_raw,Volumen como texto con K,3,Convertir a número x1000
+01_market_prices_raw,currency vacía,4,Rellenar con USD
+01_market_prices_raw,volume vacío,3,Dejar nulo
+01_market_prices_raw,Cierre x100 (error de punto decimal),1,Dividir entre 100
+01_market_prices_raw_expanded,asset_id mal escrito,16,Mapear al ID oficial
+01_market_prices_raw_expanded,Fecha en formato MM/DD/YYYY HH:MM,38,Parsear con formato mixto
+01_market_prices_raw_expanded,Filas duplicadas,12,Eliminar duplicados
+01_market_prices_raw_expanded,close vacío,24,Eliminar la barra
+01_market_prices_raw_expanded,currency vacía,35,Rellenar con USD
+01_market_prices_raw_expanded,volume vacío o con K,75,Convertir o dejar nulo
+02_macro_raw,Inflación solo mensual,258,Rellenar hacia adelante
+03_fundamentals_raw,issuer_id mal escrito (ISS04),1,Mapear a ISS_04
+03_fundamentals_raw,Ingreso como texto con coma,1,"Quitar la coma; supuesto 2,845.7"
+03_fundamentals_raw,period_end = Q4-2024 (ISS_02),1,Supuesto: reasignar a 2025-06-30
+03_fundamentals_raw,Fila duplicada exacta,1,Eliminar duplicado
+03_fundamentals_raw,cash_usd_m vacío,1,Interpolar entre trimestres
+Entre archivos,"Diario y expanded no coinciden en open, high, low, close ni volumen",2168,Elegir una fuente; no mezclarlas

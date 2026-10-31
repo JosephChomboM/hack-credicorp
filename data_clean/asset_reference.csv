@@ -1,0 +1,9 @@
+asset_id,issuer_id,name,sector,country,market,currency
+VF_A01,ISS_01,Andes Consumer,Consumer Staples,Colombia,NYSE ADR,USD
+VF_A02,ISS_02,Pacifica Digital,Technology,Peru,NASDAQ,USD
+VF_A03,ISS_03,Cordillera Energy,Energy,Colombia,NYSE ADR,USD
+VF_A04,ISS_04,Lima Financial,Financials,Peru,NYSE ADR,USD
+VF_A05,ISS_05,Aurora Health,Health Care,United States,NYSE,USD
+VF_A06,ISS_06,Norte Industrials,Industrials,Mexico,NYSE ADR,USD
+VF_A07,ISS_07,Sierra Materials,Materials,Chile,NYSE ADR,USD
+VF_A08,ISS_08,Atlas Utilities,Utilities,United States,NYSE,USD

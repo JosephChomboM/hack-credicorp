@@ -1,0 +1,18 @@
+client_id,profile_name,asset_id,name,weight_pct
+CL_01,Crecimiento Global,VF_A01,Andes Consumer,20
+CL_01,Crecimiento Global,VF_A04,Lima Financial,35
+CL_01,Crecimiento Global,VF_A05,Aurora Health,35
+CL_01,Crecimiento Global,VF_A06,Norte Industrials,5
+CL_01,Crecimiento Global,VF_A07,Sierra Materials,5
+CL_02,Patrimonio Estable,VF_A01,Andes Consumer,10
+CL_02,Patrimonio Estable,VF_A04,Lima Financial,20
+CL_02,Patrimonio Estable,VF_A05,Aurora Health,25
+CL_02,Patrimonio Estable,VF_A07,Sierra Materials,5
+CL_02,Patrimonio Estable,VF_A08,Atlas Utilities,10
+CL_02,Patrimonio Estable,LIQUIDEZ_COP,Efectivo / depósito en COP,30
+CL_03,Diversificación Regional,VF_A01,Andes Consumer,15
+CL_03,Diversificación Regional,VF_A02,Pacifica Digital,5
+CL_03,Diversificación Regional,VF_A04,Lima Financial,35
+CL_03,Diversificación Regional,VF_A05,Aurora Health,30
+CL_03,Diversificación Regional,VF_A06,Norte Industrials,5
+CL_03,Diversificación Regional,VF_A08,Atlas Utilities,10

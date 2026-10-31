@@ -1,0 +1,4 @@
+release_id,effective_date,type,field,new_information,required_action
+TW_01,2026-08-17,Macro,us_10y_yield,La tasa de 10 años sube 65 pb en una semana por sorpresa inflacionaria.,Decidir si cambia su lectura de sensibilidad a tasas / valoración.
+TW_02,2026-08-17,Client,CL_02_liquidity,CL_02 necesitará disponer de 30% del portafolio en 6 meses.,Revisar si la recomendación sigue siendo adecuada dadas las nuevas necesidades de liquidez.
+TW_03,2026-08-17,FX,USD_COP,El COP se deprecia 8% frente al USD en pocos días.,Evaluar impacto para un cliente cuya moneda base es COP.

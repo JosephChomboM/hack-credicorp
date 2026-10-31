@@ -1,0 +1,6 @@
+event_date,scope,event_type,headline,severity
+2026-02-10,VF_A02,Operational,Interrupción temporal de un proveedor crítico de nube,High
+2026-04-06,VF_A03,Commodity,Mejora abrupta en margen de referencia energético,Medium
+2026-05-18,VF_A04,Earnings,Resultados superan expectativas internas del mercado,Medium
+2026-06-08,VF_A07,Demand,Debilidad inesperada en demanda externa del sector,High
+2026-07-21,Technology,Sector,Repricing de múltiplos en compañías de crecimiento,Medium
